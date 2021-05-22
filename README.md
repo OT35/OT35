@@ -26,7 +26,7 @@ I'm a  student planning to pursue Software Development. I love what I do and lov
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/AstraWRLD">
+<a href="https://github.com/OT35">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AstraWRLD&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AstraWRLD&layout=compact&langs_count=8&theme=react"/>
 </a>
